@@ -1,6 +1,6 @@
 ![github.io的首頁](/apply_twcc_to_solve_surface_inspection/images/github.io_page_sample.jpg)
 
-![線上投影片](/apply_twcc_to_solve_surface_inspection/images/slides_sample.jpg)
+
 
 1.建立[個人帳號].github.io的首頁
 
