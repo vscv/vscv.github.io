@@ -37,6 +37,15 @@ NOTE:
 
 子目錄頁 https://vscv.github.io/apply_twcc_to_solve_surface_inspection
 
+
 控制：
 
-左右鍵或滑鼠，按Esc可顯示slides縮圖。
+換頁用左右鍵或滑鼠
+
+按Esc可顯示slides縮圖。
+
+按S可顯示講者模式，每張時間下張縮圖等。
+
+按B可顯示黑幕。
+
+可轉pdf 但有點複雜
