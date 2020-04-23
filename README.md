@@ -2,6 +2,7 @@
 
 ![線上投影片](/apply_twcc_to_solve_surface_inspection/images/slides_sample.jpg)
 
+![線上投影片](/apply_twcc_to_solve_surface_inspection/images/esc_key.jpg)
 
 
 1.建立[個人帳號].github.io的首頁
@@ -36,3 +37,6 @@ NOTE:
 
 子目錄頁 https://vscv.github.io/apply_twcc_to_solve_surface_inspection
 
+控制：
+
+左右鍵或滑鼠，按Esc可顯示slides縮圖。
