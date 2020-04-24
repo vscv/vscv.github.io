@@ -1,5 +1,5 @@
-## 1. 如何建立github.io的首頁
-## 2. 使用github.io網頁伺服器當作線上投影片
+## 1. 建立github.io的首頁
+## 2. 以github.io網頁作線上投影片
 
 ![github.io的首頁](/apply_twcc_to_solve_surface_inspection/images/github.io_page_sample.jpg)
 
