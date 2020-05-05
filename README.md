@@ -16,7 +16,7 @@
 
 參考：
 
-[2020-05-05] 補充HackMD也整合了reveal.js做線上簡報，至少不用自己處理html跟網址空間可以試試喔。
+### 補充HackMD也整合了reveal.js做線上簡報，至少不用自己處理html跟網址空間可以試試喔。
 
 建立單一頁面的根專案
 https://gitbook.tw/chapters/github/using-github-pages.html
